@@ -1,0 +1,168 @@
+============================================================
+
+CONFIG
+
+============================================================
+"/app/conf/TEST/analysspel.json"
+"F1901M"
+"RUSSIA"
+============================================================
+
+SITCHECK
+
+============================================================
+2024-04-05 13:18:36 I0405 11:18:36 [situation_check:232]    RUSSIA
+2024-04-05 13:18:36 I0405 11:18:36 [situation_check:237]         0.51 ('F BOT - SWE', 'A WAR - UKR', 'F SEV - BLA', 'A UKR - RUM')
+2024-04-05 13:18:36 I0405 11:18:36 [situation_check:237]         0.49 ('F BOT - SWE', 'A WAR - GAL', 'F SEV - BLA', 'A UKR - RUM')
+2024-04-05 13:23:33 I0405 11:23:33 [situation_check:232]    RUSSIA
+2024-04-05 13:23:33 I0405 11:23:33 [situation_check:237]         0.89 ('F BOT - SWE', 'A WAR - UKR', 'F SEV - BLA', 'A UKR - RUM')
+2024-04-05 13:23:33 I0405 11:23:33 [situation_check:237]         0.11 ('F BOT - SWE', 'A WAR - GAL', 'F SEV - BLA', 'A UKR - RUM')
+2024-04-05 13:28:31 I0405 11:28:31 [situation_check:232]    RUSSIA
+2024-04-05 13:28:31 I0405 11:28:31 [situation_check:237]         0.88 ('F BOT - SWE', 'A WAR - UKR', 'F SEV - BLA', 'A UKR - RUM')
+2024-04-05 13:28:31 I0405 11:28:31 [situation_check:237]         0.12 ('F BOT - SWE', 'A WAR - GAL', 'F SEV - BLA', 'A UKR - RUM')
+2024-04-05 13:33:30 I0405 11:33:30 [situation_check:232]    RUSSIA
+2024-04-05 13:33:30 I0405 11:33:30 [situation_check:237]         0.97 ('F BOT - SWE', 'A WAR - UKR', 'F SEV - BLA', 'A UKR - RUM')
+2024-04-05 13:33:30 I0405 11:33:30 [situation_check:237]         0.02 ('F BOT - SWE', 'A WAR - GAL', 'F SEV - BLA', 'A UKR - RUM')
+2024-04-05 13:38:30 I0405 11:38:30 [situation_check:232]    RUSSIA
+2024-04-05 13:38:30 I0405 11:38:30 [situation_check:237]         0.89 ('F BOT - SWE', 'A WAR - UKR', 'F SEV - BLA', 'A UKR - RUM')
+2024-04-05 13:38:30 I0405 11:38:30 [situation_check:237]         0.11 ('F BOT - SWE', 'A WAR - GAL', 'F SEV - BLA', 'A UKR - RUM')
+2024-04-05 13:43:27 I0405 11:43:27 [situation_check:232]    RUSSIA
+2024-04-05 13:43:27 I0405 11:43:27 [situation_check:237]         0.91 ('F BOT - SWE', 'A WAR - UKR', 'F SEV - BLA', 'A UKR - RUM')
+2024-04-05 13:43:27 I0405 11:43:27 [situation_check:237]         0.09 ('F BOT - SWE', 'A WAR - GAL', 'F SEV - BLA', 'A UKR - RUM')
+2024-04-05 13:48:25 I0405 11:48:25 [situation_check:232]    RUSSIA
+2024-04-05 13:48:25 I0405 11:48:25 [situation_check:237]         0.74 ('F BOT - SWE', 'A WAR - UKR', 'F SEV - BLA', 'A UKR - RUM')
+2024-04-05 13:48:25 I0405 11:48:25 [situation_check:237]         0.25 ('F BOT - SWE', 'A WAR - GAL', 'F SEV - BLA', 'A UKR - RUM')
+2024-04-05 13:53:23 I0405 11:53:23 [situation_check:232]    RUSSIA
+2024-04-05 13:53:23 I0405 11:53:23 [situation_check:237]         0.86 ('F BOT - SWE', 'A WAR - UKR', 'F SEV - BLA', 'A UKR - RUM')
+2024-04-05 13:53:23 I0405 11:53:23 [situation_check:237]         0.14 ('F BOT - SWE', 'A WAR - GAL', 'F SEV - BLA', 'A UKR - RUM')
+2024-04-05 13:58:20 I0405 11:58:20 [situation_check:232]    RUSSIA
+2024-04-05 13:58:20 I0405 11:58:20 [situation_check:237]         0.96 ('F BOT - SWE', 'A WAR - UKR', 'F SEV - BLA', 'A UKR - RUM')
+2024-04-05 13:58:20 I0405 11:58:20 [situation_check:237]         0.04 ('F BOT - SWE', 'A WAR - GAL', 'F SEV - BLA', 'A UKR - RUM')
+2024-04-05 14:03:18 I0405 12:03:18 [situation_check:232]    RUSSIA
+2024-04-05 14:03:18 I0405 12:03:18 [situation_check:237]         0.81 ('F BOT - SWE', 'A WAR - UKR', 'F SEV - BLA', 'A UKR - RUM')
+2024-04-05 14:03:18 I0405 12:03:18 [situation_check:237]         0.19 ('F BOT - SWE', 'A WAR - GAL', 'F SEV - BLA', 'A UKR - RUM')
+2024-04-05 14:08:15 I0405 12:08:15 [situation_check:232]    RUSSIA
+2024-04-05 14:08:15 I0405 12:08:15 [situation_check:237]         0.98 ('F BOT - SWE', 'A WAR - UKR', 'F SEV - BLA', 'A UKR - RUM')
+2024-04-05 14:08:15 I0405 12:08:15 [situation_check:237]         0.02 ('F BOT - SWE', 'A WAR - GAL', 'F SEV - BLA', 'A UKR - RUM')
+2024-04-05 14:13:14 I0405 12:13:14 [situation_check:232]    RUSSIA
+2024-04-05 14:13:14 I0405 12:13:14 [situation_check:237]         0.77 ('F BOT - SWE', 'A WAR - UKR', 'F SEV - BLA', 'A UKR - RUM')
+2024-04-05 14:13:14 I0405 12:13:14 [situation_check:237]         0.23 ('F BOT - SWE', 'A WAR - GAL', 'F SEV - BLA', 'A UKR - RUM')
+2024-04-05 14:18:11 I0405 12:18:11 [situation_check:232]    RUSSIA
+2024-04-05 14:18:11 I0405 12:18:11 [situation_check:237]         0.53 ('F BOT - SWE', 'A WAR - GAL', 'F SEV - BLA', 'A UKR - RUM')
+2024-04-05 14:18:11 I0405 12:18:11 [situation_check:237]         0.47 ('F BOT - SWE', 'A WAR - UKR', 'F SEV - BLA', 'A UKR - RUM')
+2024-04-05 14:23:08 I0405 12:23:08 [situation_check:232]    RUSSIA
+2024-04-05 14:23:08 I0405 12:23:08 [situation_check:237]         0.75 ('F BOT - SWE', 'A WAR - UKR', 'F SEV - BLA', 'A UKR - RUM')
+2024-04-05 14:23:08 I0405 12:23:08 [situation_check:237]         0.25 ('F BOT - SWE', 'A WAR - GAL', 'F SEV - BLA', 'A UKR - RUM')
+2024-04-05 14:28:06 I0405 12:28:06 [situation_check:232]    RUSSIA
+2024-04-05 14:28:06 I0405 12:28:06 [situation_check:237]         0.75 ('F BOT - SWE', 'A WAR - UKR', 'F SEV - BLA', 'A UKR - RUM')
+2024-04-05 14:28:06 I0405 12:28:06 [situation_check:237]         0.25 ('F BOT - SWE', 'A WAR - GAL', 'F SEV - BLA', 'A UKR - RUM')
+2024-04-05 14:33:03 I0405 12:33:03 [situation_check:232]    RUSSIA
+2024-04-05 14:33:03 I0405 12:33:03 [situation_check:237]         0.61 ('F BOT - SWE', 'A WAR - UKR', 'F SEV - BLA', 'A UKR - RUM')
+2024-04-05 14:33:03 I0405 12:33:03 [situation_check:237]         0.39 ('F BOT - SWE', 'A WAR - GAL', 'F SEV - BLA', 'A UKR - RUM')
+2024-04-05 14:37:59 I0405 12:37:59 [situation_check:232]    RUSSIA
+2024-04-05 14:37:59 I0405 12:37:59 [situation_check:237]         0.96 ('F BOT - SWE', 'A WAR - UKR', 'F SEV - BLA', 'A UKR - RUM')
+2024-04-05 14:37:59 I0405 12:37:59 [situation_check:237]         0.04 ('F BOT - SWE', 'A WAR - GAL', 'F SEV - BLA', 'A UKR - RUM')
+2024-04-05 14:42:57 I0405 12:42:57 [situation_check:232]    RUSSIA
+2024-04-05 14:42:57 I0405 12:42:57 [situation_check:237]         0.84 ('F BOT - SWE', 'A WAR - UKR', 'F SEV - BLA', 'A UKR - RUM')
+2024-04-05 14:42:57 I0405 12:42:57 [situation_check:237]         0.16 ('F BOT - SWE', 'A WAR - GAL', 'F SEV - BLA', 'A UKR - RUM')
+2024-04-05 14:47:54 I0405 12:47:54 [situation_check:232]    RUSSIA
+2024-04-05 14:47:54 I0405 12:47:54 [situation_check:237]         0.93 ('F BOT - SWE', 'A WAR - UKR', 'F SEV - BLA', 'A UKR - RUM')
+2024-04-05 14:47:54 I0405 12:47:54 [situation_check:237]         0.07 ('F BOT - SWE', 'A WAR - GAL', 'F SEV - BLA', 'A UKR - RUM')
+2024-04-05 14:52:54 I0405 12:52:54 [situation_check:232]    RUSSIA
+2024-04-05 14:52:54 I0405 12:52:54 [situation_check:237]         0.53 ('F BOT - SWE', 'A WAR - GAL', 'F SEV - BLA', 'A UKR - RUM')
+2024-04-05 14:52:54 I0405 12:52:54 [situation_check:237]         0.47 ('F BOT - SWE', 'A WAR - UKR', 'F SEV - BLA', 'A UKR - RUM')
+============================================================
+
+ORDER   20 SPEL
+
+============================================================
+RUSSIA
+--------------------------------------------------
+-----
+0.51 ('F BOT - SWE', 'A WAR - UKR', 'F SEV - BLA', 'A UKR - RUM')
+0.49 ('F BOT - SWE', 'A WAR - GAL', 'F SEV - BLA', 'A UKR - RUM')
+-----
+0.89 ('F BOT - SWE', 'A WAR - UKR', 'F SEV - BLA', 'A UKR - RUM')
+0.11 ('F BOT - SWE', 'A WAR - GAL', 'F SEV - BLA', 'A UKR - RUM')
+-----
+0.88 ('F BOT - SWE', 'A WAR - UKR', 'F SEV - BLA', 'A UKR - RUM')
+0.12 ('F BOT - SWE', 'A WAR - GAL', 'F SEV - BLA', 'A UKR - RUM')
+-----
+0.97 ('F BOT - SWE', 'A WAR - UKR', 'F SEV - BLA', 'A UKR - RUM')
+0.02 ('F BOT - SWE', 'A WAR - GAL', 'F SEV - BLA', 'A UKR - RUM')
+-----
+0.89 ('F BOT - SWE', 'A WAR - UKR', 'F SEV - BLA', 'A UKR - RUM')
+0.11 ('F BOT - SWE', 'A WAR - GAL', 'F SEV - BLA', 'A UKR - RUM')
+-----
+0.91 ('F BOT - SWE', 'A WAR - UKR', 'F SEV - BLA', 'A UKR - RUM')
+0.09 ('F BOT - SWE', 'A WAR - GAL', 'F SEV - BLA', 'A UKR - RUM')
+-----
+0.74 ('F BOT - SWE', 'A WAR - UKR', 'F SEV - BLA', 'A UKR - RUM')
+0.25 ('F BOT - SWE', 'A WAR - GAL', 'F SEV - BLA', 'A UKR - RUM')
+-----
+0.86 ('F BOT - SWE', 'A WAR - UKR', 'F SEV - BLA', 'A UKR - RUM')
+0.14 ('F BOT - SWE', 'A WAR - GAL', 'F SEV - BLA', 'A UKR - RUM')
+-----
+0.96 ('F BOT - SWE', 'A WAR - UKR', 'F SEV - BLA', 'A UKR - RUM')
+0.04 ('F BOT - SWE', 'A WAR - GAL', 'F SEV - BLA', 'A UKR - RUM')
+-----
+0.81 ('F BOT - SWE', 'A WAR - UKR', 'F SEV - BLA', 'A UKR - RUM')
+0.19 ('F BOT - SWE', 'A WAR - GAL', 'F SEV - BLA', 'A UKR - RUM')
+-----
+0.98 ('F BOT - SWE', 'A WAR - UKR', 'F SEV - BLA', 'A UKR - RUM')
+0.02 ('F BOT - SWE', 'A WAR - GAL', 'F SEV - BLA', 'A UKR - RUM')
+-----
+0.77 ('F BOT - SWE', 'A WAR - UKR', 'F SEV - BLA', 'A UKR - RUM')
+0.23 ('F BOT - SWE', 'A WAR - GAL', 'F SEV - BLA', 'A UKR - RUM')
+-----
+0.53 ('F BOT - SWE', 'A WAR - GAL', 'F SEV - BLA', 'A UKR - RUM')
+0.47 ('F BOT - SWE', 'A WAR - UKR', 'F SEV - BLA', 'A UKR - RUM')
+-----
+0.75 ('F BOT - SWE', 'A WAR - UKR', 'F SEV - BLA', 'A UKR - RUM')
+0.25 ('F BOT - SWE', 'A WAR - GAL', 'F SEV - BLA', 'A UKR - RUM')
+-----
+0.75 ('F BOT - SWE', 'A WAR - UKR', 'F SEV - BLA', 'A UKR - RUM')
+0.25 ('F BOT - SWE', 'A WAR - GAL', 'F SEV - BLA', 'A UKR - RUM')
+-----
+0.61 ('F BOT - SWE', 'A WAR - UKR', 'F SEV - BLA', 'A UKR - RUM')
+0.39 ('F BOT - SWE', 'A WAR - GAL', 'F SEV - BLA', 'A UKR - RUM')
+-----
+0.96 ('F BOT - SWE', 'A WAR - UKR', 'F SEV - BLA', 'A UKR - RUM')
+0.04 ('F BOT - SWE', 'A WAR - GAL', 'F SEV - BLA', 'A UKR - RUM')
+-----
+0.84 ('F BOT - SWE', 'A WAR - UKR', 'F SEV - BLA', 'A UKR - RUM')
+0.16 ('F BOT - SWE', 'A WAR - GAL', 'F SEV - BLA', 'A UKR - RUM')
+-----
+0.93 ('F BOT - SWE', 'A WAR - UKR', 'F SEV - BLA', 'A UKR - RUM')
+0.07 ('F BOT - SWE', 'A WAR - GAL', 'F SEV - BLA', 'A UKR - RUM')
+-----
+0.53 ('F BOT - SWE', 'A WAR - GAL', 'F SEV - BLA', 'A UKR - RUM')
+0.47 ('F BOT - SWE', 'A WAR - UKR', 'F SEV - BLA', 'A UKR - RUM')
+============================================================
+
+BERÄKNING   20 SPEL  (Normaliserat medelvärde)
+
+============================================================
+("('F BOT - SWE', 'A WAR - UKR', 'F SEV - BLA', 'A UKR - RUM')", [0.7982982982982983])
+("('F BOT - SWE', 'A WAR - GAL', 'F SEV - BLA', 'A UKR - RUM')", [0.20170170170170168])
+============================================================
+
+BERÄKNING   20 SPEL  (Vanligt Medelvärde)
+
+============================================================
+("('F BOT - SWE', 'A WAR - UKR', 'F SEV - BLA', 'A UKR - RUM')", [0.7975000000000001])
+("('F BOT - SWE', 'A WAR - GAL', 'F SEV - BLA', 'A UKR - RUM')", [0.2015])
+============================================================
+
+STANDARDAVVIKELSE PÅ ANTAL FÖREKOMSTER
+
+============================================================
+("('F BOT - SWE', 'A WAR - UKR', 'F SEV - BLA', 'A UKR - RUM')", ' Standard deviation (standard_deviation_2): 0.1649202359036826     Number of occurences: 20')
+("('F BOT - SWE', 'A WAR - GAL', 'F SEV - BLA', 'A UKR - RUM')", ' Standard deviation (standard_deviation_2): 0.16531548785977615     Number of occurences: 20')
+============================================================
+
+STANDARDAVVIKELSE PÅ 20 SPEL 
+
+============================================================
+("('F BOT - SWE', 'A WAR - UKR', 'F SEV - BLA', 'A UKR - RUM')", ' Standard deviation: 0.1649202359036826     Number of occurences: 20')
+("('F BOT - SWE', 'A WAR - GAL', 'F SEV - BLA', 'A UKR - RUM')", ' Standard deviation: 0.16531548785977615     Number of occurences: 20')

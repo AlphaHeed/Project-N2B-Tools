@@ -1,0 +1,109 @@
+============================================================
+
+CONFIG
+
+============================================================
+"F1901M"
+"TURKEY"
+"/app/conf/TEST/analysspel.json"
+============================================================
+
+SITCHECK
+
+============================================================
+2024-04-02 19:37:25 I0402 17:37:25 [situation_check:232]    TURKEY
+2024-04-02 19:37:25 I0402 17:37:25 [situation_check:237]         1.00 ('F ANK - BLA', 'A BUL - GRE', 'A CON - BUL')
+2024-04-02 19:42:23 I0402 17:42:23 [situation_check:232]    TURKEY
+2024-04-02 19:42:23 I0402 17:42:23 [situation_check:237]         0.99 ('F ANK - BLA', 'A BUL - GRE', 'A CON - BUL')
+2024-04-02 19:47:21 I0402 17:47:21 [situation_check:232]    TURKEY
+2024-04-02 19:47:21 I0402 17:47:21 [situation_check:237]         1.00 ('F ANK - BLA', 'A BUL - GRE', 'A CON - BUL')
+2024-04-02 19:52:19 I0402 17:52:19 [situation_check:232]    TURKEY
+2024-04-02 19:52:19 I0402 17:52:19 [situation_check:237]         1.00 ('F ANK - BLA', 'A BUL - GRE', 'A CON - BUL')
+2024-04-02 19:57:17 I0402 17:57:17 [situation_check:232]    TURKEY
+2024-04-02 19:57:17 I0402 17:57:17 [situation_check:237]         0.98 ('F ANK - BLA', 'A BUL - GRE', 'A CON - BUL')
+2024-04-02 20:02:16 I0402 18:02:16 [situation_check:232]    TURKEY
+2024-04-02 20:02:16 I0402 18:02:16 [situation_check:237]         0.99 ('F ANK - BLA', 'A BUL - GRE', 'A CON - BUL')
+2024-04-02 20:07:14 I0402 18:07:14 [situation_check:232]    TURKEY
+2024-04-02 20:07:14 I0402 18:07:14 [situation_check:237]         0.99 ('F ANK - BLA', 'A BUL - GRE', 'A CON - BUL')
+2024-04-02 20:12:11 I0402 18:12:11 [situation_check:232]    TURKEY
+2024-04-02 20:12:11 I0402 18:12:11 [situation_check:237]         0.97 ('F ANK - BLA', 'A BUL - GRE', 'A CON - BUL')
+2024-04-02 20:12:11 I0402 18:12:11 [situation_check:237]         0.03 ('F ANK - BLA', 'A BUL - SER', 'A CON - BUL')
+2024-04-02 20:17:11 I0402 18:17:11 [situation_check:232]    TURKEY
+2024-04-02 20:17:11 I0402 18:17:11 [situation_check:237]         1.00 ('F ANK - BLA', 'A BUL - GRE', 'A CON - BUL')
+2024-04-02 20:22:10 I0402 18:22:10 [situation_check:232]    TURKEY
+2024-04-02 20:22:10 I0402 18:22:10 [situation_check:237]         1.00 ('F ANK - BLA', 'A BUL - GRE', 'A CON - BUL')
+2024-04-02 20:27:09 I0402 18:27:09 [situation_check:232]    TURKEY
+2024-04-02 20:27:09 I0402 18:27:09 [situation_check:237]         0.99 ('F ANK - BLA', 'A BUL - GRE', 'A CON - BUL')
+2024-04-02 20:32:08 I0402 18:32:08 [situation_check:232]    TURKEY
+2024-04-02 20:32:08 I0402 18:32:08 [situation_check:237]         1.00 ('F ANK - BLA', 'A BUL - GRE', 'A CON - BUL')
+2024-04-02 20:37:06 I0402 18:37:06 [situation_check:232]    TURKEY
+2024-04-02 20:37:06 I0402 18:37:06 [situation_check:237]         0.99 ('F ANK - BLA', 'A BUL - GRE', 'A CON - BUL')
+2024-04-02 20:42:04 I0402 18:42:04 [situation_check:232]    TURKEY
+2024-04-02 20:42:04 I0402 18:42:04 [situation_check:237]         1.00 ('F ANK - BLA', 'A BUL - GRE', 'A CON - BUL')
+2024-04-02 20:47:01 I0402 18:47:01 [situation_check:232]    TURKEY
+2024-04-02 20:47:01 I0402 18:47:01 [situation_check:237]         1.00 ('F ANK - BLA', 'A BUL - GRE', 'A CON - BUL')
+2024-04-02 20:52:01 I0402 18:52:01 [situation_check:232]    TURKEY
+2024-04-02 20:52:01 I0402 18:52:01 [situation_check:237]         1.00 ('F ANK - BLA', 'A BUL - GRE', 'A CON - BUL')
+2024-04-02 20:56:59 I0402 18:56:59 [situation_check:232]    TURKEY
+2024-04-02 20:56:59 I0402 18:56:59 [situation_check:237]         1.00 ('F ANK - BLA', 'A BUL - GRE', 'A CON - BUL')
+2024-04-02 21:01:58 I0402 19:01:58 [situation_check:232]    TURKEY
+2024-04-02 21:01:58 I0402 19:01:58 [situation_check:237]         1.00 ('F ANK - BLA', 'A BUL - GRE', 'A CON - BUL')
+2024-04-02 21:06:57 I0402 19:06:57 [situation_check:232]    TURKEY
+2024-04-02 21:06:57 I0402 19:06:57 [situation_check:237]         1.00 ('F ANK - BLA', 'A BUL - GRE', 'A CON - BUL')
+2024-04-02 21:11:55 I0402 19:11:55 [situation_check:232]    TURKEY
+2024-04-02 21:11:55 I0402 19:11:55 [situation_check:237]         1.00 ('F ANK - BLA', 'A BUL - GRE', 'A CON - BUL')
+============================================================
+
+ORDER   20 SPEL
+
+============================================================
+TURKEY
+--------------------------------------------------
+-----
+1.00 ('F ANK - BLA', 'A BUL - GRE', 'A CON - BUL')
+-----
+0.99 ('F ANK - BLA', 'A BUL - GRE', 'A CON - BUL')
+-----
+1.00 ('F ANK - BLA', 'A BUL - GRE', 'A CON - BUL')
+-----
+1.00 ('F ANK - BLA', 'A BUL - GRE', 'A CON - BUL')
+-----
+0.98 ('F ANK - BLA', 'A BUL - GRE', 'A CON - BUL')
+-----
+0.99 ('F ANK - BLA', 'A BUL - GRE', 'A CON - BUL')
+-----
+0.99 ('F ANK - BLA', 'A BUL - GRE', 'A CON - BUL')
+-----
+0.97 ('F ANK - BLA', 'A BUL - GRE', 'A CON - BUL')
+0.03 ('F ANK - BLA', 'A BUL - SER', 'A CON - BUL')
+-----
+1.00 ('F ANK - BLA', 'A BUL - GRE', 'A CON - BUL')
+-----
+1.00 ('F ANK - BLA', 'A BUL - GRE', 'A CON - BUL')
+-----
+0.99 ('F ANK - BLA', 'A BUL - GRE', 'A CON - BUL')
+-----
+1.00 ('F ANK - BLA', 'A BUL - GRE', 'A CON - BUL')
+-----
+0.99 ('F ANK - BLA', 'A BUL - GRE', 'A CON - BUL')
+-----
+1.00 ('F ANK - BLA', 'A BUL - GRE', 'A CON - BUL')
+-----
+1.00 ('F ANK - BLA', 'A BUL - GRE', 'A CON - BUL')
+-----
+1.00 ('F ANK - BLA', 'A BUL - GRE', 'A CON - BUL')
+-----
+1.00 ('F ANK - BLA', 'A BUL - GRE', 'A CON - BUL')
+-----
+1.00 ('F ANK - BLA', 'A BUL - GRE', 'A CON - BUL')
+-----
+1.00 ('F ANK - BLA', 'A BUL - GRE', 'A CON - BUL')
+-----
+1.00 ('F ANK - BLA', 'A BUL - GRE', 'A CON - BUL')
+============================================================
+
+BERÄKNING   20 SPEL
+
+============================================================
+("('F ANK - BLA', 'A BUL - GRE', 'A CON - BUL')", [0.9950000000000001])
+("('F ANK - BLA', 'A BUL - SER', 'A CON - BUL')", [0.0015])
