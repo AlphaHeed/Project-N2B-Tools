@@ -1,0 +1,124 @@
+============================================================
+
+CONFIG
+
+============================================================
+"/app/conf/TEST/analysspel.json"
+"F1901M"
+"TURKEY"
+============================================================
+
+SITCHECK
+
+============================================================
+2024-04-07 17:54:15 I0407 15:54:15 [situation_check:232]    TURKEY
+2024-04-07 17:54:15 I0407 15:54:15 [situation_check:237]         1.00 ('F ANK - BLA', 'A BUL - RUM', 'A CON - SMY')
+2024-04-07 17:59:13 I0407 15:59:13 [situation_check:232]    TURKEY
+2024-04-07 17:59:13 I0407 15:59:13 [situation_check:237]         1.00 ('F ANK - BLA', 'A BUL - RUM', 'A CON - SMY')
+2024-04-07 18:04:10 I0407 16:04:10 [situation_check:232]    TURKEY
+2024-04-07 18:04:10 I0407 16:04:10 [situation_check:237]         1.00 ('F ANK - BLA', 'A BUL - RUM', 'A CON - SMY')
+2024-04-07 18:09:08 I0407 16:09:08 [situation_check:232]    TURKEY
+2024-04-07 18:09:08 I0407 16:09:08 [situation_check:237]         1.00 ('F ANK - BLA', 'A BUL - RUM', 'A CON - SMY')
+2024-04-07 18:14:05 I0407 16:14:05 [situation_check:232]    TURKEY
+2024-04-07 18:14:05 I0407 16:14:05 [situation_check:237]         1.00 ('F ANK - BLA', 'A BUL - RUM', 'A CON - SMY')
+2024-04-07 18:19:02 I0407 16:19:02 [situation_check:232]    TURKEY
+2024-04-07 18:19:02 I0407 16:19:02 [situation_check:237]         1.00 ('F ANK - BLA', 'A BUL - RUM', 'A CON - SMY')
+2024-04-07 18:23:59 I0407 16:23:59 [situation_check:232]    TURKEY
+2024-04-07 18:23:59 I0407 16:23:59 [situation_check:237]         1.00 ('F ANK - BLA', 'A BUL - RUM', 'A CON - SMY')
+2024-04-07 18:28:57 I0407 16:28:57 [situation_check:232]    TURKEY
+2024-04-07 18:28:57 I0407 16:28:57 [situation_check:237]         1.00 ('F ANK - BLA', 'A BUL - RUM', 'A CON - SMY')
+2024-04-07 18:33:54 I0407 16:33:54 [situation_check:232]    TURKEY
+2024-04-07 18:33:54 I0407 16:33:54 [situation_check:237]         1.00 ('F ANK - BLA', 'A BUL - RUM', 'A CON - SMY')
+2024-04-07 18:38:53 I0407 16:38:53 [situation_check:232]    TURKEY
+2024-04-07 18:38:53 I0407 16:38:53 [situation_check:237]         1.00 ('F ANK - BLA', 'A BUL - RUM', 'A CON - SMY')
+2024-04-07 18:43:52 I0407 16:43:52 [situation_check:232]    TURKEY
+2024-04-07 18:43:52 I0407 16:43:52 [situation_check:237]         1.00 ('F ANK - BLA', 'A BUL - RUM', 'A CON - SMY')
+2024-04-07 18:48:50 I0407 16:48:50 [situation_check:232]    TURKEY
+2024-04-07 18:48:50 I0407 16:48:50 [situation_check:237]         1.00 ('F ANK - BLA', 'A BUL - RUM', 'A CON - SMY')
+2024-04-07 18:53:47 I0407 16:53:47 [situation_check:232]    TURKEY
+2024-04-07 18:53:47 I0407 16:53:47 [situation_check:237]         1.00 ('F ANK - BLA', 'A BUL - RUM', 'A CON - SMY')
+2024-04-07 18:58:45 I0407 16:58:45 [situation_check:232]    TURKEY
+2024-04-07 18:58:45 I0407 16:58:45 [situation_check:237]         1.00 ('F ANK - BLA', 'A BUL - RUM', 'A CON - SMY')
+2024-04-07 19:03:43 I0407 17:03:43 [situation_check:232]    TURKEY
+2024-04-07 19:03:43 I0407 17:03:43 [situation_check:237]         1.00 ('F ANK - BLA', 'A BUL - RUM', 'A CON - SMY')
+2024-04-07 19:08:41 I0407 17:08:41 [situation_check:232]    TURKEY
+2024-04-07 19:08:41 I0407 17:08:41 [situation_check:237]         1.00 ('F ANK - BLA', 'A BUL - RUM', 'A CON - SMY')
+2024-04-07 19:13:40 I0407 17:13:40 [situation_check:232]    TURKEY
+2024-04-07 19:13:40 I0407 17:13:40 [situation_check:237]         1.00 ('F ANK - BLA', 'A BUL - RUM', 'A CON - SMY')
+2024-04-07 19:18:38 I0407 17:18:38 [situation_check:232]    TURKEY
+2024-04-07 19:18:38 I0407 17:18:38 [situation_check:237]         1.00 ('F ANK - BLA', 'A BUL - RUM', 'A CON - SMY')
+2024-04-07 19:23:35 I0407 17:23:35 [situation_check:232]    TURKEY
+2024-04-07 19:23:35 I0407 17:23:35 [situation_check:237]         1.00 ('F ANK - BLA', 'A BUL - RUM', 'A CON - SMY')
+2024-04-07 19:28:33 I0407 17:28:33 [situation_check:232]    TURKEY
+2024-04-07 19:28:33 I0407 17:28:33 [situation_check:237]         1.00 ('F ANK - BLA', 'A BUL - RUM', 'A CON - SMY')
+============================================================
+
+ORDER   20 SPEL
+
+============================================================
+TURKEY
+--------------------------------------------------
+-----
+1.00 ('F ANK - BLA', 'A BUL - RUM', 'A CON - SMY')
+-----
+1.00 ('F ANK - BLA', 'A BUL - RUM', 'A CON - SMY')
+-----
+1.00 ('F ANK - BLA', 'A BUL - RUM', 'A CON - SMY')
+-----
+1.00 ('F ANK - BLA', 'A BUL - RUM', 'A CON - SMY')
+-----
+1.00 ('F ANK - BLA', 'A BUL - RUM', 'A CON - SMY')
+-----
+1.00 ('F ANK - BLA', 'A BUL - RUM', 'A CON - SMY')
+-----
+1.00 ('F ANK - BLA', 'A BUL - RUM', 'A CON - SMY')
+-----
+1.00 ('F ANK - BLA', 'A BUL - RUM', 'A CON - SMY')
+-----
+1.00 ('F ANK - BLA', 'A BUL - RUM', 'A CON - SMY')
+-----
+1.00 ('F ANK - BLA', 'A BUL - RUM', 'A CON - SMY')
+-----
+1.00 ('F ANK - BLA', 'A BUL - RUM', 'A CON - SMY')
+-----
+1.00 ('F ANK - BLA', 'A BUL - RUM', 'A CON - SMY')
+-----
+1.00 ('F ANK - BLA', 'A BUL - RUM', 'A CON - SMY')
+-----
+1.00 ('F ANK - BLA', 'A BUL - RUM', 'A CON - SMY')
+-----
+1.00 ('F ANK - BLA', 'A BUL - RUM', 'A CON - SMY')
+-----
+1.00 ('F ANK - BLA', 'A BUL - RUM', 'A CON - SMY')
+-----
+1.00 ('F ANK - BLA', 'A BUL - RUM', 'A CON - SMY')
+-----
+1.00 ('F ANK - BLA', 'A BUL - RUM', 'A CON - SMY')
+-----
+1.00 ('F ANK - BLA', 'A BUL - RUM', 'A CON - SMY')
+-----
+1.00 ('F ANK - BLA', 'A BUL - RUM', 'A CON - SMY')
+============================================================
+
+BERÄKNING   20 SPEL  (Normaliserat medelvärde)
+
+============================================================
+("('F ANK - BLA', 'A BUL - RUM', 'A CON - SMY')", [1.0])
+============================================================
+
+BERÄKNING   20 SPEL  (Vanligt Medelvärde)
+
+============================================================
+("('F ANK - BLA', 'A BUL - RUM', 'A CON - SMY')", [1.0])
+============================================================
+
+STANDARDAVVIKELSE PÅ ANTAL FÖREKOMSTER
+
+============================================================
+("('F ANK - BLA', 'A BUL - RUM', 'A CON - SMY')", ' Standard deviation (standard_deviation_2): 0.0     Number of occurences: 20')
+============================================================
+
+STANDARDAVVIKELSE PÅ 20 SPEL 
+
+============================================================
+("('F ANK - BLA', 'A BUL - RUM', 'A CON - SMY')", ' Standard deviation: 0.0     Number of occurences: 20')

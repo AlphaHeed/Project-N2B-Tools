@@ -1,0 +1,212 @@
+============================================================
+
+CONFIG
+
+============================================================
+"AUSTRIA"
+"F1901M"
+"/app/conf/TEST/analysspel.json"
+============================================================
+
+SITCHECK
+
+============================================================
+2024-04-06 22:01:04 I0406 20:01:04 [situation_check:232]    AUSTRIA
+2024-04-06 22:01:04 I0406 20:01:04 [situation_check:237]         0.40 ('A VIE - GAL', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 22:01:04 I0406 20:01:04 [situation_check:237]         0.34 ('A VIE - TYR', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 22:01:04 I0406 20:01:04 [situation_check:237]         0.25 ('A VIE - TRI', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 22:06:01 I0406 20:06:01 [situation_check:232]    AUSTRIA
+2024-04-06 22:06:01 I0406 20:06:01 [situation_check:237]         0.35 ('A VIE - TRI', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 22:06:01 I0406 20:06:01 [situation_check:237]         0.33 ('A VIE - GAL', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 22:06:01 I0406 20:06:01 [situation_check:237]         0.31 ('A VIE - TYR', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 22:11:00 I0406 20:11:00 [situation_check:232]    AUSTRIA
+2024-04-06 22:11:00 I0406 20:11:00 [situation_check:237]         0.52 ('A VIE - TRI', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 22:11:00 I0406 20:11:00 [situation_check:237]         0.30 ('A VIE - GAL', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 22:11:00 I0406 20:11:00 [situation_check:237]         0.18 ('A VIE - TYR', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 22:15:58 I0406 20:15:58 [situation_check:232]    AUSTRIA
+2024-04-06 22:15:58 I0406 20:15:58 [situation_check:237]         0.52 ('A VIE - TRI', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 22:15:58 I0406 20:15:58 [situation_check:237]         0.36 ('A VIE - GAL', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 22:15:58 I0406 20:15:58 [situation_check:237]         0.11 ('A VIE - TYR', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 22:20:56 I0406 20:20:56 [situation_check:232]    AUSTRIA
+2024-04-06 22:20:56 I0406 20:20:56 [situation_check:237]         0.46 ('A VIE - GAL', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 22:20:56 I0406 20:20:56 [situation_check:237]         0.32 ('A VIE - TRI', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 22:20:56 I0406 20:20:56 [situation_check:237]         0.22 ('A VIE - TYR', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 22:25:53 I0406 20:25:53 [situation_check:232]    AUSTRIA
+2024-04-06 22:25:53 I0406 20:25:53 [situation_check:237]         0.41 ('A VIE - TYR', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 22:25:53 I0406 20:25:53 [situation_check:237]         0.39 ('A VIE - TRI', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 22:25:53 I0406 20:25:53 [situation_check:237]         0.20 ('A VIE - GAL', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 22:30:51 I0406 20:30:51 [situation_check:232]    AUSTRIA
+2024-04-06 22:30:51 I0406 20:30:51 [situation_check:237]         0.41 ('A VIE - GAL', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 22:30:51 I0406 20:30:51 [situation_check:237]         0.40 ('A VIE - TRI', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 22:30:51 I0406 20:30:51 [situation_check:237]         0.18 ('A VIE - TYR', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 22:35:48 I0406 20:35:48 [situation_check:232]    AUSTRIA
+2024-04-06 22:35:48 I0406 20:35:48 [situation_check:237]         0.50 ('A VIE - TRI', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 22:35:48 I0406 20:35:48 [situation_check:237]         0.26 ('A VIE - TYR', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 22:35:48 I0406 20:35:48 [situation_check:237]         0.24 ('A VIE - GAL', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 22:40:45 I0406 20:40:45 [situation_check:232]    AUSTRIA
+2024-04-06 22:40:45 I0406 20:40:45 [situation_check:237]         0.49 ('A VIE - TRI', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 22:40:45 I0406 20:40:45 [situation_check:237]         0.36 ('A VIE - GAL', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 22:40:45 I0406 20:40:45 [situation_check:237]         0.14 ('A VIE - TYR', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 22:45:42 I0406 20:45:42 [situation_check:232]    AUSTRIA
+2024-04-06 22:45:42 I0406 20:45:42 [situation_check:237]         0.38 ('A VIE - GAL', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 22:45:42 I0406 20:45:42 [situation_check:237]         0.37 ('A VIE - TRI', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 22:45:42 I0406 20:45:42 [situation_check:237]         0.24 ('A VIE - TYR', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 22:50:40 I0406 20:50:40 [situation_check:232]    AUSTRIA
+2024-04-06 22:50:40 I0406 20:50:40 [situation_check:237]         0.48 ('A VIE - TRI', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 22:50:40 I0406 20:50:40 [situation_check:237]         0.27 ('A VIE - TYR', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 22:50:40 I0406 20:50:40 [situation_check:237]         0.25 ('A VIE - GAL', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 22:55:39 I0406 20:55:39 [situation_check:232]    AUSTRIA
+2024-04-06 22:55:39 I0406 20:55:39 [situation_check:237]         0.41 ('A VIE - TYR', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 22:55:39 I0406 20:55:39 [situation_check:237]         0.32 ('A VIE - GAL', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 22:55:39 I0406 20:55:39 [situation_check:237]         0.26 ('A VIE - TRI', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 23:00:37 I0406 21:00:37 [situation_check:232]    AUSTRIA
+2024-04-06 23:00:37 I0406 21:00:37 [situation_check:237]         0.51 ('A VIE - TRI', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 23:00:37 I0406 21:00:37 [situation_check:237]         0.36 ('A VIE - GAL', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 23:00:37 I0406 21:00:37 [situation_check:237]         0.13 ('A VIE - TYR', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 23:05:37 I0406 21:05:37 [situation_check:232]    AUSTRIA
+2024-04-06 23:05:37 I0406 21:05:37 [situation_check:237]         0.38 ('A VIE - GAL', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 23:05:37 I0406 21:05:37 [situation_check:237]         0.33 ('A VIE - TRI', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 23:05:37 I0406 21:05:37 [situation_check:237]         0.29 ('A VIE - TYR', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 23:10:34 I0406 21:10:34 [situation_check:232]    AUSTRIA
+2024-04-06 23:10:34 I0406 21:10:34 [situation_check:237]         0.58 ('A VIE - TRI', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 23:10:34 I0406 21:10:34 [situation_check:237]         0.29 ('A VIE - GAL', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 23:10:34 I0406 21:10:34 [situation_check:237]         0.13 ('A VIE - TYR', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 23:15:33 I0406 21:15:33 [situation_check:232]    AUSTRIA
+2024-04-06 23:15:33 I0406 21:15:33 [situation_check:237]         0.46 ('A VIE - GAL', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 23:15:33 I0406 21:15:33 [situation_check:237]         0.39 ('A VIE - TRI', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 23:15:33 I0406 21:15:33 [situation_check:237]         0.14 ('A VIE - TYR', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 23:20:30 I0406 21:20:30 [situation_check:232]    AUSTRIA
+2024-04-06 23:20:30 I0406 21:20:30 [situation_check:237]         0.36 ('A VIE - TYR', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 23:20:30 I0406 21:20:30 [situation_check:237]         0.36 ('A VIE - GAL', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 23:20:30 I0406 21:20:30 [situation_check:237]         0.27 ('A VIE - TRI', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 23:25:29 I0406 21:25:29 [situation_check:232]    AUSTRIA
+2024-04-06 23:25:29 I0406 21:25:29 [situation_check:237]         0.45 ('A VIE - GAL', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 23:25:29 I0406 21:25:29 [situation_check:237]         0.35 ('A VIE - TRI', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 23:25:29 I0406 21:25:29 [situation_check:237]         0.20 ('A VIE - TYR', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 23:30:26 I0406 21:30:26 [situation_check:232]    AUSTRIA
+2024-04-06 23:30:26 I0406 21:30:26 [situation_check:237]         0.46 ('A VIE - TRI', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 23:30:26 I0406 21:30:26 [situation_check:237]         0.33 ('A VIE - GAL', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 23:30:26 I0406 21:30:26 [situation_check:237]         0.20 ('A VIE - TYR', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 23:35:24 I0406 21:35:24 [situation_check:232]    AUSTRIA
+2024-04-06 23:35:24 I0406 21:35:24 [situation_check:237]         0.39 ('A VIE - TRI', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 23:35:24 I0406 21:35:24 [situation_check:237]         0.36 ('A VIE - GAL', 'F ALB - GRE', 'A SER S F ALB - GRE')
+2024-04-06 23:35:24 I0406 21:35:24 [situation_check:237]         0.24 ('A VIE - TYR', 'F ALB - GRE', 'A SER S F ALB - GRE')
+============================================================
+
+ORDER   20 SPEL
+
+============================================================
+AUSTRIA
+--------------------------------------------------
+-----
+0.40 ('A VIE - GAL', 'F ALB - GRE', 'A SER S F ALB - GRE')
+0.34 ('A VIE - TYR', 'F ALB - GRE', 'A SER S F ALB - GRE')
+0.25 ('A VIE - TRI', 'F ALB - GRE', 'A SER S F ALB - GRE')
+-----
+0.35 ('A VIE - TRI', 'F ALB - GRE', 'A SER S F ALB - GRE')
+0.33 ('A VIE - GAL', 'F ALB - GRE', 'A SER S F ALB - GRE')
+0.31 ('A VIE - TYR', 'F ALB - GRE', 'A SER S F ALB - GRE')
+-----
+0.52 ('A VIE - TRI', 'F ALB - GRE', 'A SER S F ALB - GRE')
+0.30 ('A VIE - GAL', 'F ALB - GRE', 'A SER S F ALB - GRE')
+0.18 ('A VIE - TYR', 'F ALB - GRE', 'A SER S F ALB - GRE')
+-----
+0.52 ('A VIE - TRI', 'F ALB - GRE', 'A SER S F ALB - GRE')
+0.36 ('A VIE - GAL', 'F ALB - GRE', 'A SER S F ALB - GRE')
+0.11 ('A VIE - TYR', 'F ALB - GRE', 'A SER S F ALB - GRE')
+-----
+0.46 ('A VIE - GAL', 'F ALB - GRE', 'A SER S F ALB - GRE')
+0.32 ('A VIE - TRI', 'F ALB - GRE', 'A SER S F ALB - GRE')
+0.22 ('A VIE - TYR', 'F ALB - GRE', 'A SER S F ALB - GRE')
+-----
+0.41 ('A VIE - TYR', 'F ALB - GRE', 'A SER S F ALB - GRE')
+0.39 ('A VIE - TRI', 'F ALB - GRE', 'A SER S F ALB - GRE')
+0.20 ('A VIE - GAL', 'F ALB - GRE', 'A SER S F ALB - GRE')
+-----
+0.41 ('A VIE - GAL', 'F ALB - GRE', 'A SER S F ALB - GRE')
+0.40 ('A VIE - TRI', 'F ALB - GRE', 'A SER S F ALB - GRE')
+0.18 ('A VIE - TYR', 'F ALB - GRE', 'A SER S F ALB - GRE')
+-----
+0.50 ('A VIE - TRI', 'F ALB - GRE', 'A SER S F ALB - GRE')
+0.26 ('A VIE - TYR', 'F ALB - GRE', 'A SER S F ALB - GRE')
+0.24 ('A VIE - GAL', 'F ALB - GRE', 'A SER S F ALB - GRE')
+-----
+0.49 ('A VIE - TRI', 'F ALB - GRE', 'A SER S F ALB - GRE')
+0.36 ('A VIE - GAL', 'F ALB - GRE', 'A SER S F ALB - GRE')
+0.14 ('A VIE - TYR', 'F ALB - GRE', 'A SER S F ALB - GRE')
+-----
+0.38 ('A VIE - GAL', 'F ALB - GRE', 'A SER S F ALB - GRE')
+0.37 ('A VIE - TRI', 'F ALB - GRE', 'A SER S F ALB - GRE')
+0.24 ('A VIE - TYR', 'F ALB - GRE', 'A SER S F ALB - GRE')
+-----
+0.48 ('A VIE - TRI', 'F ALB - GRE', 'A SER S F ALB - GRE')
+0.27 ('A VIE - TYR', 'F ALB - GRE', 'A SER S F ALB - GRE')
+0.25 ('A VIE - GAL', 'F ALB - GRE', 'A SER S F ALB - GRE')
+-----
+0.41 ('A VIE - TYR', 'F ALB - GRE', 'A SER S F ALB - GRE')
+0.32 ('A VIE - GAL', 'F ALB - GRE', 'A SER S F ALB - GRE')
+0.26 ('A VIE - TRI', 'F ALB - GRE', 'A SER S F ALB - GRE')
+-----
+0.51 ('A VIE - TRI', 'F ALB - GRE', 'A SER S F ALB - GRE')
+0.36 ('A VIE - GAL', 'F ALB - GRE', 'A SER S F ALB - GRE')
+0.13 ('A VIE - TYR', 'F ALB - GRE', 'A SER S F ALB - GRE')
+-----
+0.38 ('A VIE - GAL', 'F ALB - GRE', 'A SER S F ALB - GRE')
+0.33 ('A VIE - TRI', 'F ALB - GRE', 'A SER S F ALB - GRE')
+0.29 ('A VIE - TYR', 'F ALB - GRE', 'A SER S F ALB - GRE')
+-----
+0.58 ('A VIE - TRI', 'F ALB - GRE', 'A SER S F ALB - GRE')
+0.29 ('A VIE - GAL', 'F ALB - GRE', 'A SER S F ALB - GRE')
+0.13 ('A VIE - TYR', 'F ALB - GRE', 'A SER S F ALB - GRE')
+-----
+0.46 ('A VIE - GAL', 'F ALB - GRE', 'A SER S F ALB - GRE')
+0.39 ('A VIE - TRI', 'F ALB - GRE', 'A SER S F ALB - GRE')
+0.14 ('A VIE - TYR', 'F ALB - GRE', 'A SER S F ALB - GRE')
+-----
+0.36 ('A VIE - TYR', 'F ALB - GRE', 'A SER S F ALB - GRE')
+0.36 ('A VIE - GAL', 'F ALB - GRE', 'A SER S F ALB - GRE')
+0.27 ('A VIE - TRI', 'F ALB - GRE', 'A SER S F ALB - GRE')
+-----
+0.45 ('A VIE - GAL', 'F ALB - GRE', 'A SER S F ALB - GRE')
+0.35 ('A VIE - TRI', 'F ALB - GRE', 'A SER S F ALB - GRE')
+0.20 ('A VIE - TYR', 'F ALB - GRE', 'A SER S F ALB - GRE')
+-----
+0.46 ('A VIE - TRI', 'F ALB - GRE', 'A SER S F ALB - GRE')
+0.33 ('A VIE - GAL', 'F ALB - GRE', 'A SER S F ALB - GRE')
+0.20 ('A VIE - TYR', 'F ALB - GRE', 'A SER S F ALB - GRE')
+-----
+0.39 ('A VIE - TRI', 'F ALB - GRE', 'A SER S F ALB - GRE')
+0.36 ('A VIE - GAL', 'F ALB - GRE', 'A SER S F ALB - GRE')
+0.24 ('A VIE - TYR', 'F ALB - GRE', 'A SER S F ALB - GRE')
+============================================================
+
+BERÄKNING   20 SPEL  (Normaliserat medelvärde)
+
+============================================================
+("('A VIE - GAL', 'F ALB - GRE', 'A SER S F ALB - GRE')", [0.35193564605329314])
+("('A VIE - TYR', 'F ALB - GRE', 'A SER S F ALB - GRE')", [0.23931623931623935])
+("('A VIE - TRI', 'F ALB - GRE', 'A SER S F ALB - GRE')", [0.4087481146304675])
+============================================================
+
+BERÄKNING   20 SPEL  (Vanligt Medelvärde)
+
+============================================================
+("('A VIE - GAL', 'F ALB - GRE', 'A SER S F ALB - GRE')", [0.35000000000000003])
+("('A VIE - TYR', 'F ALB - GRE', 'A SER S F ALB - GRE')", [0.23800000000000004])
+("('A VIE - TRI', 'F ALB - GRE', 'A SER S F ALB - GRE')", [0.4065])
+============================================================
+
+STANDARDAVVIKELSE PÅ ANTAL FÖREKOMSTER
+
+============================================================
+("('A VIE - GAL', 'F ALB - GRE', 'A SER S F ALB - GRE')", ' Standard deviation (standard_deviation_2): 0.07071067811865475     Number of occurences: 20')
+("('A VIE - TYR', 'F ALB - GRE', 'A SER S F ALB - GRE')", ' Standard deviation (standard_deviation_2): 0.0925430198681445     Number of occurences: 20')
+("('A VIE - TRI', 'F ALB - GRE', 'A SER S F ALB - GRE')", ' Standard deviation (standard_deviation_2): 0.09653333212174081     Number of occurences: 20')
+============================================================
+
+STANDARDAVVIKELSE PÅ 20 SPEL 
+
+============================================================
+("('A VIE - GAL', 'F ALB - GRE', 'A SER S F ALB - GRE')", ' Standard deviation: 0.07071067811865475     Number of occurences: 20')
+("('A VIE - TYR', 'F ALB - GRE', 'A SER S F ALB - GRE')", ' Standard deviation: 0.0925430198681445     Number of occurences: 20')
+("('A VIE - TRI', 'F ALB - GRE', 'A SER S F ALB - GRE')", ' Standard deviation: 0.09653333212174081     Number of occurences: 20')
